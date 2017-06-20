@@ -1,0 +1,5 @@
+package printname
+
+func PrintName() {
+
+}

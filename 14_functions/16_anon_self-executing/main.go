@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	func() {
-		}()
-		fmt.Println("I'm driving!")
+	func() {}()
+	fmt.Println("I'm driving!")
 }
